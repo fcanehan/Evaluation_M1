@@ -17,7 +17,9 @@ public class Evaluation_M1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-  /* 
+  
+EvaluationSystem.getAutorun().launch("/home/fabien/Desktop/programmes/cours/evaluation/questionnaire.txt");       
+        /* 
        
 ifconfig 198.162.1.149
         
@@ -123,7 +125,7 @@ algo
 */ 
  
 
-EvaluationSystem.getAutorun().launch("../questionnaire.txt","../index.html");
+
     }
     
 }
