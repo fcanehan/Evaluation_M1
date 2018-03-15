@@ -18,7 +18,7 @@ public class Evaluation_M1 {
      */
     public static void main(String[] args) {
   
-EvaluationSystem.getAutorun().launch("/home/fabien/Desktop/programmes/cours/evaluation/questionnaire.txt");       
+EvaluationSystem.getAutorun().launch("/home/fabien/Desktop/programmes/cours/evaluation/questionnaire.txt","/1,home/fabien/Desktop/programmes/cours/evaluation/eval/index.html");       
         /* 
        
 ifconfig 198.162.1.149
